@@ -1,0 +1,21 @@
+
+	#spanId {
+	font-size: 18px;
+	margin: 50px;
+	}
+	#thirdDiv {
+	height: 600px;
+	width: 500px;
+	background: purple;
+	padding: 50px;
+	border: 4px solid black;
+	}
+	img {
+		width: 400px;
+		}
+	h1 {
+		color: royalblue;
+		}
+	li {
+		font-family: Sans-serif;
+		}
